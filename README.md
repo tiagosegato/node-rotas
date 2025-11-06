@@ -10,5 +10,3 @@ npm init -y => cria o package.json (com todas as configurações inciais)
 npm install express => instala a bilbioteca Express (e cria a node_modules)
 node index.js => executa o arquivo desejado
 
-
-Referência: https://www.youtube.com/watch?v=YeEX1s4M9xg&t=37s
