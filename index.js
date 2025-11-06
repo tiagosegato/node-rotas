@@ -23,5 +23,3 @@ app.delete('/', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Aplicação rodando na porta ${PORT}`);
 });
-
-//https://www.youtube.com/watch?v=YeEX1s4M9xg&t=37s
